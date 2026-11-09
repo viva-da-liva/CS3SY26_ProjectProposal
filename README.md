@@ -5,7 +5,7 @@
 cvbbbc
 ### Project Title or Name of the Application	: Music Shop Simulation 
 ### Section			   	      : 9-Lithium
-### Group Members			    : Li02 DALIVA, Jom Mathew G., Li20 MARIN, Rianne Isabelle A., Li29 VIVO, Kian Matthew Vivo
+### Group Members			    : Li02 DALIVA, Jom Mathew G., Li20 MARIN, Rianne Isabelle A., Li29 VIVO, Kian Matthew P.
 ### Date (Proposal Date)  : Nov 13, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
