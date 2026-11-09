@@ -3,10 +3,10 @@
 
 ## Project Proposal Template:
 cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Project Title or Name of the Application	: Music Shop Simulation 
+### Section			   	      : 9-Lithium
+### Group Members			    : Li02 DALIVA, Jom Mathew G., Li20 MARIN, Rianne Isabelle A., Li29 VIVO, Kian Matthew Vivo
+### Date (Proposal Date)  : Nov 13, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
 
