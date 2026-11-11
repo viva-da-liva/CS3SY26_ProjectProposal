@@ -7,7 +7,7 @@
 ### Section			   	      : 9-Lithium
 ### Group Members			    : Li02 DALIVA, Jom Mathew G., Li20 MARIN, Rianne Isabelle A., Li29 VIVO, Kian Matthew P.
 ### Date (Proposal Date)  : Nov 13, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
